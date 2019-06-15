@@ -1,0 +1,9 @@
+﻿A timina (T) é uma base nitrogenada orgânica que é encontrada apenas no DNA e é classificada em base pirimidina por dispor de apenas um anel ligeiramente alcalino, diferente da adenina (A) e da guanina (G) que são purinas e são existentes tanto no DNA como no RNA.
+
+A timina se liga a adenina por meio de pontes de hidrogênio e o valor da concentração de ambas no DNA são análogas, sendo esse tipo de vínculo que que chamamos de Relação de Chargaff que possibilita a duplicação do material genético.
+
+As bases purinas se ligam apenas com as bases pirimidinas e vice-versa, sendo a ligação entre timina e adenina assim como a ligação entre guanina e citosina, importantes por proporcionar imutabilidade á molécula de DNA.
+
+Assim como as outras pirimidinas e as bases purinas, a timina é hidrofóbica, ou seja, não possui compatibilidade com a água.
+
+Fórmula = C5H6N2O2.

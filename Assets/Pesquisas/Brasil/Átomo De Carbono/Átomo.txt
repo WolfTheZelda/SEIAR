@@ -1,0 +1,14 @@
+﻿É denominado Átomo a unidade fundamental da matéria. Menor fração capaz de identificar um elemento químico, o Átomo é formado por um núcleo, que possui prótons e nêutrons, e também é formado por elétrons que circundam o núcleo.
+O nome vem do grego que significa a = não e tomos = divisões. Demócrito acreditava que todos os materiais possuiriam uma menor parte e que essa parte seria indivisível.
+
+O físico inglês Joseph John Thompson propôs em 1897 um modelo que ficou conhecido como Pudim de Passas, onde existia os dois tipos de cargas simultaneamente, essas cargas são conhecidas como carga positiva e carga negativa.
+O físico britânico James Chadwick descobriu em 1932 no núcleo, a existência de partículas que não possuem carga, chamadas nêutrons.
+O físico e químico neozelandês Ernest Rutherford propôs em 1911 um modelo atômico muito semelhante com o Sistema Solar: o núcleo seria o sol, e os elétrons seriam os planetas.
+
+O físico dinamarquês Niels Bohr, fez uma ampliação do modelo de Rutherford, que propôs que os elétrons giravam ao redor do núcleo em níveis eletrônicos, ou camadas, sem perder energia. Em cada órbita, os elétrons possuem energia específica: quanto maior a proximidade do núcleo, menor é a quantidade de energia; quanto maior for a distância, maior será a quantidade de energia do elétron. Nos dias de hoje, nós sabemos que as partículas subatômicas que formam os átomos são: prótons, nêutrons, elétrons, pósitrons, quarks, mésons e neutrinos. 
+
+Curiosidades: 
+
+O Átomo é um objeto minúsculo no qual o seu diâmetro é de apenas algumas décimas de nanômetros. 
+Quase 99,94% da massa do Átomo está concentrado em seu núcleo. 
+O Átomo recebeu esse nome do filósofo grego Demócrito, que viveu entre 546 e 460 a.C.

@@ -1,0 +1,12 @@
+﻿O Nêutron é uma partícula pequena que junto com outras partículas como os prótons e os elétrons, constitui o núcleo atômico. O nêutron foi descoberto pelo físico britânico James Chadwick, colaborador de Ernest Rutherford, em 1932. James Chadwick efetuava experimentos com radioatividade quando descobriu a presença de partículas que não possuíam carga elétrica, na qual deu o nome de Nêutrons, por possuírem carga elétrica nula. Por constituírem o núcleo atômico, os prótons e os nêutrons recebem o nome de núcleons. É a carga positiva do próton e a carga neutra do nêutron que proporcionam a estabilidade do átomo. A divisão do núcleo atômico gera instabilidade, o que faz com que ele se divida em dois. E nesse processo origina-se uma reação em cadeia que denominada Fissão Nuclear, que é um processo utilizado no funcionamento de bombas nucleares.
+
+A soma de nêutrons (n) e de prótons (p+), que são muito semelhantes, tem como resultando o número da massa atômica (A), isto é:
+
+A = p + n
+
+Então ocorre que o número da massa (A) menos o número atômico (Z) que equivale ao número de nêutrons que existe em um átomo, que significa:
+
+N = A - Z
+
+Por isso que o número atômico é determinado pelo número de prótons.
+Os elementos que possuem número de nêutrons iguais são denominados isótonos. Os isótonos possuem número atômico e número de massa diferentes. Os nêutrons podem se decompor em elétrons ou em prótons. Isso ocorre pelo decaimento Beta (β), o que faz com que o nêutron se desintegre. O nêutron é reduzido pela emissão de Beta, o que origina um próton.

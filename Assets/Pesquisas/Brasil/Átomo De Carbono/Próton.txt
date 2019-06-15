@@ -1,0 +1,8 @@
+﻿Os prótons são partículas atômicas descobertas pelos físicos Ernest Rutherford e Elgen Goldstein através de seus experimentos científicos. O físico Rutherford confirmou em 1904, em suas experiências com gás hidrogênio, a presença de partículas positivas que nomeou de prótons. Junto com nêutrons, os prótons constituem os núcleos atômicos. O próton possui uma carga de +1, que é o oposto da carga -1 contida no elétron. O próton possui uma massa cerca de 1,836 vezes maior do que a de um elétron. A carga do próton é de 1,6x10-19 C. 
+
+O resultado da soma de nêutrons e prótons é denominado número da massa atômica: A = p + n
+
+Prótons e nêutrons são conhecidos como hádrons ou núcleos. O número atômico dos elementos químicos é determinado pelo número de prótons. São denominados isótopos, os elementos que possuem o mesmo número de prótons. Quando o átomo perde elétrons ele fica carregado positivamente, porque o número de prótons aumenta e eles passam a se chamar cátions. Um próton é 100 mil vezes menor do que um átomo inteiro. Os prótons se localizam no núcleo do átomo, junto com os nêutrons, constituindo um núcleo denso,maciço e compacto, localizado no meio do átomo.
+
+Os prótons são férmions de spin -1/2 e também são compostos por três quarks de valência, o que os torna bárions. Os dois quarks up e um quark down que pertencem ao próton são mantidos unidos pela força forte, que é medida pelos glúons.
+A massa real de um próton é de quase 1,673x10^-27, e a sua carga elétrica real é de quase 1,6x10-16 coulombs. Em um movimento rápido através da matéria, um próton vai desacelerar por causa das interações com núcleos e elétrons, até ele ser capturado pela nuvem eletrônica de um átomo. A polarizabilidade elétrica de um próton é de 1.20(6)x10^-3 fm^3.

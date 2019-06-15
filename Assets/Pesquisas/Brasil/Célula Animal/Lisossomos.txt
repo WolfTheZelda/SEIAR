@@ -1,0 +1,8 @@
+﻿Os lisossomos são organelas membranosas, vindas do Complexo Golgiense, presentes em quase todas as células eucarióticas e que são delimitados por uma membrana constituída por uma camada lipoproteica. Os lisossomos possuem enzimas proteínases, nucleases, glicosidases, lipases, fosfolipases, fosfatases e sulfatases que os ajudam na digestão intracelular, que é um processo muito importante para a vida da célula.
+
+O processo de digestão intracelular pode ocorrer por: 
+
+Fagocitose – Quando a célula digere determinadas substâncias vindas de sua parte externa, como por exemplo: células inimigas e bactérias. 
+Autofagia – Quando a célula digere determinadas organelas que não exercem suas funções adequadamente ou que estão velhas.
+
+Os lisossomos podem ser primários ou secundários. Os lisossomos primários são formados por pequenas estruturas (vesículas) que se desprendem do Complexo Golgiense. Os lisossomos secundários são formados a partir da união do lisossomo primário com um endossomo formado após a célula realizar a endocitose.

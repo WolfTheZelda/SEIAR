@@ -1,0 +1,21 @@
+﻿The Plasma Membrane or Cell Membrane is a structure existing in all cells, be it prokaryotic or eukaryotic, which delimits the cellular content. It consists basically of proteins and lipids, which makes its composition lipoprotein. The model we currently have of the plasma membrane is the so-called "fluid mosaic", proposed by biologist Seymor Jonathan Singer and biochemist Garth L. Nicolson in 1972. It was thanks to the invention of the electron microscope that an accurate observation of this membrane could be obtained. Among its functions, the most important is selective permeability, which controls the entry and exit of substances from the cell. On the outside of the membrane are located the carbohydrates, which if bound to proteins form glycoproteins, and if bound to lipids form the glycolipids.
+
+Among the lipids that constitute the plasma membrane, phospholipids are the most present in their composition. The phospholipids have two parts, one apolar and one polar. The apolar is directed to the inner part of the membrane and has no compatibility with water, thus being hydrophobic. The polar part of the phospholipids is directed towards the outside of the membrane and is compatible with water, thus being hydrophilic. The phospholipids are arranged in a type of double layer, called the lipid bilayer. They found themselves in constant movement, but without losing connection with each other.
+
+Proteins in the plasma membrane are divided into two types: the transmembrane proteins that give rise to some types of tubes for the transport of substances, and the peripheral proteins that are only licensed on one side of the lipid bilayer. In addition to selective permeability, the plasma membrane is responsible for the transport of essential substances to the cell. Transport of substances is divided into two types: active transport and passive transport.
+
+The active transport is the one where there is the use of energy. Examples of active transport are:
+
+Endocytosis: It is the passage of particles into the cell through the endosomes.
+These are the main forms of endocytosis: pinocytosis, phagocytosis, and receptor-mediated endocytosis.
+
+Exocytosis: It is the output of substances from the cell. Sodium and Potassium Pump: It is a process that occurs because of the difference in concentration levels of these two ions inside and outside the cell.
+
+Passive transport is one where there is no use of energy. Examples of passive transport are:
+
+Simple Diffusion: It is the displacement of substances from an area of ​​greater concentration to one of lower concentration.
+ 
+Facilitated Diffusion: It is the displacement of substances through the plasma membrane with the help of bilayer proteins.
+Osmosis: It is the passage of water from a space with less concentration to a space of greater concentration.
+
+In addition to the selective permeability and the transport of substances, the plasma membrane also has other functions of great importance for cell life, such as cell recognition and the function of coating and protecting the cell, and who performs this last task is a structure called glycocalyx or glycocalyx.

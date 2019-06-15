@@ -1,0 +1,9 @@
+﻿Thymine (T) is an organic nitrogen base that is found only in DNA and is classified on the basis of pyrimidine by having only a slightly alkaline ring, unlike adenine (A) and guanine (G) which are purines and are both present in DNA as in RNA.
+
+The thymine binds to adenine by means of hydrogen bonds and the value of the concentration of both in the DNA are analogous, being this type of bond that we call Chargaff Relation that allows the duplication of the genetic material.
+
+The purine bases bind only with the pyrimidine bases and vice versa, with the link between thymine and adenine as well as the binding between guanine and cytosine important for providing immutability to the DNA molecule.
+
+Like the other pyrimidines and the purine bases, thymine is hydrophobic, that is, it does not have compatibility with water.
+
+Formula = C 5 H 6 N 2 O 2.

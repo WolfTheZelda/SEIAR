@@ -1,0 +1,9 @@
+﻿A guanina (G) é uma base nitrogenada presente tanto no DNA como no ARN (Ácido Ribonucleico) que juntamente com a adenina (A) é classificada como Purina por ser uma base que possui dois anéis moderadamente alcalinos, tendo ela uma interligação constante com a citosina por meio de três ligações de hidrogênio.
+
+A guanina possui um ponto de fusão de 350°C e se oxida com uma facilidade maior que a adenina, tendo duas formas tautoméricas que são a forma Ceto e a forma Enol.
+
+A guanina aglutina-se a um ácido ortofosfórico é uma molécula de 2-desoxirribose para originar um nucleótido.
+
+Do mesmo modo que ocorreu com a adenina e a timina, o bioquímico Chargaff descobriu que a quantidade de citosina concentrada no DNA é análoga a de guanina, ocorrendo o que ficou conhecido como Relação de Chargaff.
+
+Fórmula = C5H5N5O

@@ -1,0 +1,9 @@
+﻿The guanine (G) is a nitrogenous base present in both DNA and RNA (Ribonucleic Acid) which together with adenine (A) is classified as Purine because it is a base that has two moderately alkaline rings, having a constant interconnection with cytosine by means of three hydrogen bonds.
+
+The guanine has a melting point of 350 ° C and oxidizes with greater ease than adenine, having two tautomeric forms which are the Keto form and the Enol form.
+
+Guanine agglutinating to an orthophosphoric acid is a 2-deoxyribose molecule to give a nucleotide.
+
+As with adenine and thymine, the biochemist Chargaff discovered that the amount of cytosine concentrated in the DNA is analogous to that of guanine, and what is known as the Chargaff Ratio occurs.
+
+Formula = C5H5N5O

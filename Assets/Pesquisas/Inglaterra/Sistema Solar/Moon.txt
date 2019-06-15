@@ -1,0 +1,8 @@
+﻿The planet's only natural satellite, the moon is the fifth largest celestial body beyond earth that humans have ever visited. The interaction of Earth-Moon gravity has many other interesting consequences: the effect of the tide that delays the rotation of the earth, agates the earth's moon 3.9 cm per year; and it is this gravitational interaction that is responsible for the rotation of the moon to be synchronous with its translation. The moon's average elevation is 1,622 m / s².
+
+Its atmosphere is composed of:
+
+Helium - 25%
+Neon - 25%
+Hydrogen - 23%
+Argon - 20%

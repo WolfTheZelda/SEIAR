@@ -1,0 +1,8 @@
+﻿Lysosomes are membranous organelles, coming from the Golgiense Complex, present in almost all eukaryotic cells and are delimited by a membrane consisting of a lipoprotein layer. Lysosomes have protease enzymes, nucleases, glycosidases, lipases, phospholipases, phosphatases and sulfatases that aid them in intracellular digestion, which is a very important process for the life of the cell.
+
+The process of intracellular digestion can occur by:
+
+Phagocytosis - When the cell digests certain substances from outside, such as: enemy cells and bacteria.
+Autophagy - When the cell digests certain organelles that do not perform properly or are old.
+
+Lysosomes may be primary or secondary. Primary lysosomes are formed by small structures (vesicles) that are detached from the Golgiense Complex. The secondary lysosomes are formed from the union of the primary lysosome with an endosome formed after the cell to perform endocytosis.

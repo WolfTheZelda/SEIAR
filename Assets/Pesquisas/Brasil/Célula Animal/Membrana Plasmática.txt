@@ -1,0 +1,21 @@
+﻿A Membrana Plasmática ou Membrana Celular é uma estrutura existente em todas as células, seja ela procariótica ou eucariótica, que delimita o conteúdo celular. É constituída basicamente por proteínas e lipídios, o que faz com que sua composição seja lipoproteica. O modelo que temos atualmente da membrana plasmática é o chamado "mosaico fluido", proposto pelo biólogo Seymor Jonathan Singer e pelo bioquímico Garth L. Nicolson em 1972. Foi graças a invenção do microscópio eletrônico que se pôde obter uma observação precisa desta membrana. Dentre suas funções, a mais importante é a permeabilidade seletiva, que controla a entrada e a saída de substâncias da célula. No exterior da membrana estão localizados os carboidratos, que se ligados a proteínas formam as glicoproteínas, e se ligados a lipídeos formam os glicolipídeos. 
+
+Dentre os lipídios que constituem a membrana plasmática, os fosfolipídeos são os que mais estão presentes em sua composição. Os fosfolipídeos dispõem de duas partes, uma apolar e outra polar. A apolar é direcionada para a parte interna da membrana e não possui compatibilidade com a água, sendo assim hidrofóbica. A parte polar dos fosfolipídeos é voltada para a parte externa da membrana e possui compatibilidade com a água, sendo assim hidrofílica. Os fosfolipídeos estão ordenados em um tipo de camada dupla, a chamada bicamada lipídica. Eles encontraram-se em constante movimento, mas sem perder a ligação uns com os outros. 
+
+As proteínas na membrana plasmática dividem-se em dois tipos: as proteínas transmembranais que originam uns tipos de tubos para a transportação de substâncias, e as proteínas periféricas que licalizam-se apenas em um dos lados da bicamada lipídica. Além da permeabilidade seletiva, a membrana plasmática é responsável pelo transporte de substâncias indispensáveis à célula. O transporte de substâncias divide-se em dois tipos: o transporte ativo e o transporte passivo. 
+
+O transporte ativo é aquele onde há a utilização de energia. São exemplos de transporte ativo: 
+
+Endocitose: É a passagem de partículas para dentro da célula através dos endossomos. 
+São essas as principais formas de endocitose: a pinocitose, a fagocitose e a endocitose mediada por receptor. 
+
+Exocitose: É a saída de substâncias da célula. Bomba de sódio e potássio: É um processo que ocorre em razão da diferença dos níveis de concentração destes dois íons dentro e fora da célula. 
+
+O transporte passivo é aquele onde não há a utilização de energia. São exemplos de transporte passivo: 
+
+Difusão Simples: É o deslocamento de substâncias de uma área de maior concentração para uma de menor concentração.
+ 
+Difusão Facilitada: É o deslocamento de substâncias por meio da membrana plasmática com a ajuda de proteínas da bicamada. 
+Osmose: É a passagem da água de um espaço com menor concentração para um espaço de maior concentração. 
+
+Além da permeabilidade seletiva e do transporte de substâncias, a membrana plasmática também possui outras funções de muita importância para a vida da célula, como o reconhecimento celular e a função de revestir e proteger a célula, sendo que quem executa essa última tarefa é uma estrutura chamada glicocálix ou glicocálice.

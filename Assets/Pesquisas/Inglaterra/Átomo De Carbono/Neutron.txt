@@ -1,0 +1,12 @@
+﻿The neutron is a small particle that along with other particles like the protons and the electrons, constitutes the atomic nucleus. The neutron was discovered by the British physicist James Chadwick, collaborator of Ernest Rutherford, in 1932. James Chadwick carried out experiments with radioactivity when it discovered the presence of particles that did not have electric charge, in which it was called Neutrons, because they have zero electrical charge. Because they constitute the atomic nucleus, protons and neutrons are called nucleons. It is the positive charge of the proton and the neutral charge of the neutron that provide the stability of the atom. The division of the atomic nucleus generates instability, which causes it to divide in two. And in this process a chain reaction originates that denominates Nuclear Fission, that is a process used in the operation of nuclear bombs.
+
+The sum of neutrons (n) and protons (p +), which are very similar, results in the number of the atomic mass (A), that is:
+
+A = p + n
+
+Then it occurs that the mass number (A) minus the atomic number (Z) which equals the number of neutrons that exists in an atom, which means:
+
+N = A - Z
+
+This is why the atomic number is determined by the number of protons.
+Elements that have the same number of neutrons are called isotons. The isotons have different atomic number and mass number. Neutrons can decompose into electrons or protons. This is due to Beta (β) decay, which causes the neutron to disintegrate. The neutron is reduced by the emission of Beta, which gives rise to a proton.

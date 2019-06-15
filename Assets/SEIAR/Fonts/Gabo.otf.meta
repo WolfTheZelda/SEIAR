@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 49d9f7c38e78b3f4e84fa71fa8ff1377
+timeCreated: 1493067199
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 15
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gabo Drive
+  fontNames:
+  - Gabo Drive
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
